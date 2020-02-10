@@ -59,6 +59,8 @@ window.onload = function() {
     country: null,
     city: null
   };
+  //jgjufgjgjgygtygygygyu
+
   render(window.variables);
   document.querySelectorAll(".picker").forEach(function(elm) {
     elm.addEventListener("change", function(e) {
